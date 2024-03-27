@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="110" viewBox="0 0 232 110">
+  <g id="Bookmarks_-_Preview_image" data-name="Bookmarks - Preview image" transform="translate(-847 -566)">
+    <rect id="Rectangle_5557" data-name="Rectangle 5557" width="232" height="110" rx="14" transform="translate(847 566)" fill="#a2cdff"/>
+    <g id="Group_65395" data-name="Group 65395" transform="translate(0 10)">
+      <text id="No_preview_available" data-name="No preview available" transform="translate(889 636)" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">No preview available</tspan></text>
+      <g id="Group_65765" data-name="Group 65765" transform="translate(-1963.719 -6422.719)">
+        <circle id="Ellipse_407" data-name="Ellipse 407" cx="16.5" cy="16.5" r="16.5" transform="translate(2910.719 7006.719)"/>
+        <g id="Bookmarks_filled_icon" data-name="Bookmarks filled icon" transform="translate(2919.18 7015.18)">
+          <rect id="Rectangle_5324" data-name="Rectangle 5324" width="17" height="17" transform="translate(-0.461 -0.461)" fill="none"/>
+          <g id="bookmarks-fill-svgrepo-com" transform="translate(1.651 0.251)">
+            <path id="Path_34314" data-name="Path 34314" d="M15.4,1H8.393A1.4,1.4,0,0,0,7,2.4h7a1.4,1.4,0,0,1,1.4,1.4v9.105l1.4.7V2.4A1.4,1.4,0,0,0,15.4,1Z" transform="translate(-4.198 -1)" fill="#fff"/>
+            <path id="Path_34315" data-name="Path 34315" d="M4.4,5h7a1.4,1.4,0,0,1,1.4,1.4V17.606l-4.9-2.1L3,17.606V6.4A1.4,1.4,0,0,1,4.4,5Z" transform="translate(-3 -2.198)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

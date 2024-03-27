@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Bookmarks_-_list_view" data-name="Bookmarks - list view" transform="translate(-7683 -3335)">
+    <circle id="Ellipse_408" data-name="Ellipse 408" cx="12" cy="12" r="12" transform="translate(7683 3335)" fill="#a2cdff"/>
+    <g id="Bookmarks_filled_icon" data-name="Bookmarks filled icon" transform="translate(5692.67 2966.67)">
+      <rect id="Rectangle_5324" data-name="Rectangle 5324" width="12" height="12" transform="translate(1996.33 374.33)" fill="none"/>
+      <g id="bookmarks-fill-svgrepo-com" transform="translate(1997.541 374.514)">
+        <path id="Path_34314" data-name="Path 34314" d="M13.165,1H8.022A1.026,1.026,0,0,0,7,2.027h5.137a1.03,1.03,0,0,1,1.027,1.027V9.733l1.027.514V2.027A1.03,1.03,0,0,0,13.165,1Z" transform="translate(-4.945 -1)"/>
+        <path id="Path_34315" data-name="Path 34315" d="M4.027,5H9.165a1.03,1.03,0,0,1,1.027,1.027v8.22L6.6,12.706,3,14.247V6.027A1.03,1.03,0,0,1,4.027,5Z" transform="translate(-3 -2.945)"/>
+      </g>
+    </g>
+  </g>
+</svg>

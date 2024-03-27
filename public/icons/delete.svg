@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Delete" transform="translate(-1076 -96)">
+    <g id="Rectangle_2957" data-name="Rectangle 2957" transform="translate(1076 96)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="trash-can" transform="translate(996.943 97)">
+      <path id="XMLID_1089_" d="M95.272,92.114l-.4-1.184a.584.584,0,0,0-.554-.4h-10.3a.584.584,0,0,0-.554.4l-.4,1.184a.414.414,0,0,0,.393.545H94.879A.414.414,0,0,0,95.272,92.114Z" transform="translate(0 -87.328)" fill="#707070"/>
+      <path id="XMLID_835_" d="M102.273,191.695a.8.8,0,0,0,.8.716h6.853a.8.8,0,0,0,.8-.716l1.223-11h-10.9Z" transform="translate(-17.356 -174.298)" fill="#707070"/>
+      <path id="XMLID_831_" d="M196.951,1.521a.46.46,0,0,1,.46-.46h1.563a.46.46,0,0,1,.46.46v.62H200.5v-.62A1.523,1.523,0,0,0,198.974,0h-1.563a1.523,1.523,0,0,0-1.521,1.521v.62h1.061Z" transform="translate(-108.841)" fill="#707070"/>
+    </g>
+  </g>
+</svg>

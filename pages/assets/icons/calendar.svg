@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Calendar" transform="translate(-1191 -76)">
+    <g id="Cal">
+      <g id="Rectangle_2962" data-name="Rectangle 2962" transform="translate(1191 76)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+        <rect width="20" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+      </g>
+      <g id="Calendar_Calendar" data-name="Calendar / Calendar" transform="translate(1190 76)">
+        <path id="Vector" d="M4,7.365H18.306M4,7.365v7.868a4.441,4.441,0,0,0,.195,1.884,1.788,1.788,0,0,0,.781.782,4.436,4.436,0,0,0,1.882.195h8.589a4.432,4.432,0,0,0,1.881-.195,1.79,1.79,0,0,0,.782-.782,4.432,4.432,0,0,0,.195-1.881V7.365M4,7.365V6.649a4.444,4.444,0,0,1,.195-1.885,1.787,1.787,0,0,1,.781-.781,4.444,4.444,0,0,1,1.885-.195h.715M18.306,7.365V6.647a4.436,4.436,0,0,0-.195-1.882,1.789,1.789,0,0,0-.782-.781,4.439,4.439,0,0,0-1.884-.195h-.715m0-1.788V3.788m0,0H7.576M7.576,2V3.788" fill="none" stroke="#a3a3a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

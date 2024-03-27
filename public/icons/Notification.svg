@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Notification" transform="translate(-738 -573)">
+    <g id="Rectangle_2955" data-name="Rectangle 2955" transform="translate(738 573)" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="noun_notification_4003825_1_" data-name="noun_notification_4003825 (1)" transform="translate(740.922 573.974)">
+      <g id="Group_670" data-name="Group 670" transform="translate(0 0)">
+        <path id="Path_328" data-name="Path 328" d="M17.729,15.782H17.5V10.144A6.127,6.127,0,0,0,12.018,4.09V2.927a.685.685,0,0,0-1.371,0V4.09a6.127,6.127,0,0,0-5.483,6.053v5.638H4.935a.677.677,0,1,0,0,1.353H17.729a.677.677,0,1,0,0-1.353Zm-11.195,0V10.144a4.8,4.8,0,0,1,9.6,0v5.638Zm7.311,3.383a.69.69,0,0,1-.685.677H9.5a.677.677,0,1,1,0-1.353H13.16A.69.69,0,0,1,13.845,19.165Z" transform="translate(-4.25 -2.25)" fill="#262626"/>
+      </g>
+    </g>
+  </g>
+</svg>

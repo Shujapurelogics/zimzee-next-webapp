@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="56" viewBox="0 0 66 56">
+  <g id="Bookmarks_floating_icon" data-name="Bookmarks floating icon" transform="translate(-2054 -373)">
+    <g id="Rectangle_5321" data-name="Rectangle 5321" transform="translate(2054 373)" fill="none" stroke="#f60" stroke-width="1">
+      <path d="M28,0H66a0,0,0,0,1,0,0V56a0,0,0,0,1,0,0H28A28,28,0,0,1,0,28v0A28,28,0,0,1,28,0Z" stroke="none"/>
+      <path d="M28,.5H65.5a0,0,0,0,1,0,0v55a0,0,0,0,1,0,0H28A27.5,27.5,0,0,1,.5,28v0A27.5,27.5,0,0,1,28,.5Z" fill="none"/>
+    </g>
+    <g id="Bookmarks_filled_icon" data-name="Bookmarks filled icon" transform="translate(79 15)">
+      <rect id="Rectangle_5324" data-name="Rectangle 5324" width="24" height="24" transform="translate(1996 374)" fill="none"/>
+      <g id="bookmarks-fill-svgrepo-com" transform="translate(1996 374)">
+        <path id="Path_34314" data-name="Path 34314" d="M19,1H8.99A2,2,0,0,0,7,3H17a2.006,2.006,0,0,1,2,2V18l2,1V3A2.006,2.006,0,0,0,19,1Z" fill="#f60"/>
+        <path id="Path_34315" data-name="Path 34315" d="M5,5H15a2.006,2.006,0,0,1,2,2V23l-7-3L3,23V7A2.006,2.006,0,0,1,5,5Z" fill="#f60"/>
+      </g>
+    </g>
+  </g>
+</svg>

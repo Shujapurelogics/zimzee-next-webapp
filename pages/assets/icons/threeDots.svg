@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Three_dots" data-name="Three dots" transform="translate(-453 -101)">
+    <g id="Rectangle_2951" data-name="Rectangle 2951" transform="translate(453 101)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Group_61152" data-name="Group 61152" transform="translate(465 103.449) rotate(90)">
+      <circle id="Ellipse_60" data-name="Ellipse 60" cx="1.5" cy="1.5" r="1.5" transform="translate(0.551)" fill="#5d5d5d"/>
+      <circle id="Ellipse_61" data-name="Ellipse 61" cx="1.5" cy="1.5" r="1.5" transform="translate(6.551)" fill="#5d5d5d"/>
+      <circle id="Ellipse_62" data-name="Ellipse 62" cx="1.5" cy="1.5" r="1.5" transform="translate(12.551)" fill="#5d5d5d"/>
+    </g>
+  </g>
+</svg>

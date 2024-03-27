@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Dismiss_icon" data-name="Dismiss icon" transform="translate(-431.5 -320)">
+    <ellipse id="Ellipse_95" data-name="Ellipse 95" cx="12" cy="12" rx="12" ry="12" transform="translate(431.5 320)" fill="none"/>
+    <g id="close_1_" data-name="close (1)" transform="translate(437.5 326)">
+      <path id="close_1_2" data-name="close (1)" d="M6.682,5.783l4.4-4.4A.732.732,0,0,0,10.045.35l-4.4,4.4L1.249.35A.732.732,0,0,0,.215,1.385l4.4,4.4-4.4,4.4a.732.732,0,1,0,1.035,1.035l4.4-4.4,4.4,4.4a.732.732,0,0,0,1.035-1.035Zm0,0" transform="translate(0 -0.136)" fill="#707070"/>
+    </g>
+  </g>
+</svg>

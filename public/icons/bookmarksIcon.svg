@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Bookmarks_-_Light_mode" data-name="Bookmarks - Light mode" transform="translate(40 -4)">
+    <g id="Livello_2" data-name="Livello 2" transform="translate(-40 4)">
+      <g id="Group_65137" data-name="Group 65137">
+        <rect id="Rectangle_5293" data-name="Rectangle 5293" width="24" height="24" fill="none"/>
+        <g id="Group_65138" data-name="Group 65138" transform="translate(-1.775 -1.64)">
+          <path id="Path_34301" data-name="Path 34301" d="M22.087,29.982a.448.448,0,0,1-.261-.081l-4.794-3.2-4.8,3.2a.46.46,0,0,1-.479,0,.466.466,0,0,1-.243-.41v-11.2a2.717,2.717,0,0,1,2.711-2.717h5.6a2.717,2.717,0,0,1,2.717,2.717V29.515a.466.466,0,0,1-.249.41A.454.454,0,0,1,22.087,29.982Zm-5.055-4.3a.429.429,0,0,1,.255.081l4.353,2.885V18.287A1.791,1.791,0,0,0,19.855,16.5h-5.6a1.784,1.784,0,0,0-1.822,1.784V28.645l4.353-2.86a.448.448,0,0,1,.243-.106Z" transform="translate(-5.734 -7)" stroke="#000" stroke-width="0.2"/>
+          <path id="Path_34302" data-name="Path 34302" d="M29.362,23.662a.473.473,0,0,1-.255-.081l-2.251-1.5a.466.466,0,1,1,.516-.771l1.53,1.013V11.961a1.778,1.778,0,0,0-1.778-1.778h-5.6A1.778,1.778,0,0,0,19.8,11.532a.468.468,0,0,1-.908-.23A2.717,2.717,0,0,1,21.528,9.25h5.6a2.717,2.717,0,0,1,2.711,2.711V23.2a.473.473,0,0,1-.243.41.479.479,0,0,1-.23.056Z" transform="translate(-8.52 -4.609)" stroke="#000" stroke-width="0.2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

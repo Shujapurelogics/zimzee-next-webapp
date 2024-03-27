@@ -1,0 +1,12 @@
+<svg id="Group_63669" data-name="Group 63669" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Ellipse_261" data-name="Ellipse 261" transform="translate(0 0)" fill="none" stroke="#e3ebf1" stroke-width="1" opacity="0.6">
+    <circle cx="18" cy="18" r="18" stroke="none"/>
+    <circle cx="18" cy="18" r="17.5" fill="none"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(5.857 5.197)">
+    <g id="folder">
+      <rect id="Rectangle_892" data-name="Rectangle 892" width="24.286" height="24.286" fill="#f60" opacity="0"/>
+      <path id="Path_12455" data-name="Path 12455" d="M19.662,20.657H4.523A2.493,2.493,0,0,1,2,18.2V5.952A2.493,2.493,0,0,1,4.523,3.5H9.166a1.009,1.009,0,0,1,.777.373l2.624,3.209h7.065a2.493,2.493,0,0,1,2.553,2.452V18.2A2.493,2.493,0,0,1,19.662,20.657Zm-15.643-6.8V18.2a.464.464,0,0,0,.5.434H19.662a.464.464,0,0,0,.5-.434V9.535a.464.464,0,0,0-.5-.434H12.092a1.009,1.009,0,0,1-.777-.373L8.691,5.518H4.523a.464.464,0,0,0-.5.434Z" transform="translate(0.018 0.032)" fill="#f60"/>
+    </g>
+  </g>
+</svg>

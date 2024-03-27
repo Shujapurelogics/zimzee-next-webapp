@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Dismiss_button" data-name="Dismiss button" transform="translate(-431 -320)">
+    <circle id="Ellipse_95" data-name="Ellipse 95" cx="12" cy="12" r="12" transform="translate(431 320)"/>
+    <g id="close_1_" data-name="close (1)" transform="translate(438.168 327.168)">
+      <path id="close_1_2" data-name="close (1)" d="M5.717,4.967,9.48,1.2A.626.626,0,1,0,8.595.319L4.832,4.082,1.069.319A.626.626,0,0,0,.184,1.2L3.946,4.967.184,8.73a.626.626,0,1,0,.885.885L4.832,5.853,8.595,9.616A.626.626,0,0,0,9.48,8.73Zm0,0" transform="translate(0 -0.136)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg id="Highlight_texts" data-name="Highlight texts" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_34536" data-name="Path 34536" d="M2,22H22V2H2ZM5.333,5.333H18.667V8.667H17.556s0-2.222-1.111-2.222H13.111v10a1.088,1.088,0,0,0,1.111,1.111h1.111v1.111H8.667V17.556H9.778a1.088,1.088,0,0,0,1.111-1.111v-10H7.556c-1.111,0-1.111,2.222-1.111,2.222H5.333Z" fill="#a130f1"/>
+  <g id="Group_65601" data-name="Group 65601">
+    <path id="Path_34537" data-name="Path 34537" d="M0,2H1V1H2V0H0Z" fill="#a130f1"/>
+    <path id="Path_34538" data-name="Path 34538" d="M0,22H2V21H1V20H0Z" transform="translate(0 2)" fill="#a130f1"/>
+    <rect id="Rectangle_5809" data-name="Rectangle 5809" width="1" height="2" transform="translate(0 4.4)" fill="#a130f1"/>
+    <rect id="Rectangle_5810" data-name="Rectangle 5810" width="1" height="2" transform="translate(0 8.8)" fill="#a130f1"/>
+    <rect id="Rectangle_5811" data-name="Rectangle 5811" width="1" height="2" transform="translate(0 13.2)" fill="#a130f1"/>
+    <rect id="Rectangle_5812" data-name="Rectangle 5812" width="1" height="2" transform="translate(0 17.6)" fill="#a130f1"/>
+    <path id="Path_34539" data-name="Path 34539" d="M20,22h2V20H21v1H20Z" transform="translate(2 2)" fill="#a130f1"/>
+    <path id="Path_34540" data-name="Path 34540" d="M20,1h1V2h1V0H20Z" transform="translate(2)" fill="#a130f1"/>
+    <rect id="Rectangle_5813" data-name="Rectangle 5813" width="1" height="2" transform="translate(23 17.6)" fill="#a130f1"/>
+    <rect id="Rectangle_5814" data-name="Rectangle 5814" width="1" height="2" transform="translate(23 13.2)" fill="#a130f1"/>
+    <rect id="Rectangle_5815" data-name="Rectangle 5815" width="1" height="2" transform="translate(23 8.8)" fill="#a130f1"/>
+    <rect id="Rectangle_5816" data-name="Rectangle 5816" width="1" height="2" transform="translate(23 4.4)" fill="#a130f1"/>
+    <rect id="Rectangle_5817" data-name="Rectangle 5817" width="2" height="1" transform="translate(4.4 23)" fill="#a130f1"/>
+    <rect id="Rectangle_5818" data-name="Rectangle 5818" width="2" height="1" transform="translate(8.8 23)" fill="#a130f1"/>
+    <rect id="Rectangle_5819" data-name="Rectangle 5819" width="2" height="1" transform="translate(13.2 23)" fill="#a130f1"/>
+    <rect id="Rectangle_5820" data-name="Rectangle 5820" width="2" height="1" transform="translate(17.6 23)" fill="#a130f1"/>
+    <rect id="Rectangle_5821" data-name="Rectangle 5821" width="2" height="1" transform="translate(4.4)" fill="#a130f1"/>
+    <rect id="Rectangle_5822" data-name="Rectangle 5822" width="2" height="1" transform="translate(8.8)" fill="#a130f1"/>
+    <rect id="Rectangle_5823" data-name="Rectangle 5823" width="2" height="1" transform="translate(13.2)" fill="#a130f1"/>
+    <rect id="Rectangle_5824" data-name="Rectangle 5824" width="2" height="1" transform="translate(17.6)" fill="#a130f1"/>
+  </g>
+</svg>

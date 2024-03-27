@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Clipboard" transform="translate(-889 -492)">
+    <g id="Rectangle_2965" data-name="Rectangle 2965" transform="translate(889 492)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Group_61169" data-name="Group 61169" transform="translate(135.558 -664.187)">
+      <g id="Rectangle_2870" data-name="Rectangle 2870" transform="translate(756.442 1159.187)" fill="none" stroke="#8e8e8e" stroke-width="1.5">
+        <rect width="13" height="16" rx="2" stroke="none"/>
+        <rect x="0.75" y="0.75" width="11.5" height="14.5" rx="1.25" fill="none"/>
+      </g>
+      <g id="Rectangle_2871" data-name="Rectangle 2871" transform="translate(759.9 1157.187)" fill="#fff" stroke="#8e8e8e" stroke-width="1.5">
+        <path d="M2,0H4.2a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" stroke="none"/>
+        <path d="M2,.75H4.2A1.25,1.25,0,0,1,5.45,2V4.25a0,0,0,0,1,0,0H.75a0,0,0,0,1,0,0V2A1.25,1.25,0,0,1,2,.75Z" fill="none"/>
+      </g>
+      <line id="Line_277" data-name="Line 277" x2="7.116" transform="translate(759.442 1165.302)" fill="none" stroke="#8e8e8e" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_278" data-name="Line 278" x2="4.744" transform="translate(759.442 1169.256)" fill="none" stroke="#8e8e8e" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

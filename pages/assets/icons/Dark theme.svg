@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Dark_theme" data-name="Dark theme" transform="translate(-624 -621)">
+    <g id="Rectangle_2967" data-name="Rectangle 2967" transform="translate(624 621)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <path id="noun-night-3666553" d="M197.306,118.626l-.789-1.592-1.592-.789,1.592-.789.789-1.592.789,1.592,1.592.789-1.592.789Zm5.462,2.343-1.006-2.012-.955,2.012-2.012,1.006,2.012.955,1.006,2.012.955-2.012,2.012-1.006Zm-12.032-2.19a6.532,6.532,0,1,0,9.129,9.129,9.091,9.091,0,0,1-9.129-9.078m1.6-2.266a7.818,7.818,0,0,0,9.741,9.741,7.805,7.805,0,1,1-9.74-9.74Z" transform="translate(438.205 508.15)" fill="#262626"/>
+  </g>
+</svg>

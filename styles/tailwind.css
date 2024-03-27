@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    @variants responsive {
+      .masonry-4-col {
+        column-count: 4;
+        column-gap: 1em;
+      }
+      .masonry-2-col {
+        column-count: 2;
+        column-gap: 1em;
+      }
+      .break-inside {
+        break-inside: avoid;
+      }
+    }
+  }
+/* @font-face {
+  font-family: 'HelveticaNeue';
+  src: url('./assets/fonts/Helvetica\ Neue\ Medium\ Extended.ttf');
+} */
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url('/public/fonts/HelveticaNeue.ttc');
+}
+@font-face {
+  font-family: 'Objectivity';
+  src: url('/public/fonts/Objectivity-Regular.woff2');
+}
+@font-face {
+  font-family: 'Objectivity-Medium';
+  src: url('/public/fonts/Objectivity-Medium.woff2');
+}
+@font-face {
+  font-family: 'Objectivity-Bold';
+  src: url('/public/fonts/Objectivity-Bold.otf');
+}
+@font-face {
+  font-family: 'Inter-Bold';
+  src: url('/public/fonts/Inter-Bold.ttf');
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('/public/fonts/Inter-Regular.ttf');
+}

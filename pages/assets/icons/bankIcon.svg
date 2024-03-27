@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="22" viewBox="0 0 26 22">
+  <g id="Bank_icon" data-name="Bank icon" transform="translate(-581 -736)">
+    <rect id="Rectangle_5959" data-name="Rectangle 5959" width="26" height="22" rx="2" transform="translate(581 736)" fill="#dee5ea"/>
+    <g id="bank-svgrepo-com" transform="translate(586 739)">
+      <circle id="Ellipse_399" data-name="Ellipse 399" cx="1" cy="1" r="1" transform="translate(6.999 2.625)" fill="#707070"/>
+      <path id="Path_34597" data-name="Path 34597" d="M1,7.031H15a1.026,1.026,0,0,0,.963-.822,1.191,1.191,0,0,0-.444-1.265l-7-4.781a.906.906,0,0,0-1.038,0l-7,4.781A1.191,1.191,0,0,0,.037,6.209,1.025,1.025,0,0,0,1,7.031Zm7-4.5A1.335,1.335,0,0,1,9.25,3.938,1.335,1.335,0,0,1,8,5.344,1.335,1.335,0,0,1,6.75,3.938,1.335,1.335,0,0,1,8,2.531Z" transform="translate(0)" fill="#707070"/>
+      <rect id="Rectangle_5952" data-name="Rectangle 5952" width="2" height="7" transform="translate(8.749 6.545)" fill="#707070"/>
+      <rect id="Rectangle_5953" data-name="Rectangle 5953" width="2" height="7" transform="translate(11.374 6.545)" fill="#707070"/>
+      <rect id="Rectangle_5954" data-name="Rectangle 5954" width="2" height="7" transform="translate(5.25 6.545)" fill="#707070"/>
+      <rect id="Rectangle_5955" data-name="Rectangle 5955" width="2" height="7" transform="translate(2.625 6.545)" fill="#707070"/>
+      <path id="Path_34598" data-name="Path 34598" d="M4,55.125H17.75A1.061,1.061,0,0,0,16.768,54H4.982A1.061,1.061,0,0,0,4,55.125Z" transform="translate(-2.875 -40.813)" fill="#707070"/>
+      <path id="Path_34599" data-name="Path 34599" d="M15.861,60H.139A1.22,1.22,0,0,0,0,60.563v.563H16v-.562A1.22,1.22,0,0,0,15.861,60Z" transform="translate(0 -45.125)" fill="#707070"/>
+    </g>
+  </g>
+</svg>

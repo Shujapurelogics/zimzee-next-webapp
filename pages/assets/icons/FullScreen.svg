@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.778" y1="0.096" x2="0.182" y2="0.894" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ad2df4"/>
+      <stop offset="1" stop-color="#cc26fb"/>
+    </linearGradient>
+  </defs>
+  <g id="Screen_capture" data-name="Screen capture" transform="translate(-3428 -7696)">
+    <circle id="Ellipse_129" data-name="Ellipse 129" cx="12" cy="12" r="12" transform="translate(3428 7696)" fill="url(#linear-gradient)"/>
+    <g id="Group_65608" data-name="Group 65608" transform="translate(3141.999 7121.997)">
+      <g id="Group_65606" data-name="Group 65606" transform="translate(291.001 579.003)">
+        <g id="Group_65604" data-name="Group 65604" transform="translate(0 0)">
+          <path id="Path_34541" data-name="Path 34541" d="M219,588.473v3a.789.789,0,0,0,.789.789h3a.316.316,0,0,0,0-.631h-3a.157.157,0,0,1-.158-.158v-3a.316.316,0,1,0-.631,0Zm9.47,3.788h3a.789.789,0,0,0,.789-.789v-3a.316.316,0,1,0-.631,0v3a.157.157,0,0,1-.158.158h-3a.316.316,0,0,0,0,.631Zm3.788-9.47v-3a.789.789,0,0,0-.789-.789h-3a.316.316,0,0,0,0,.631h3a.157.157,0,0,1,.158.158v3a.316.316,0,1,0,.631,0ZM222.789,579h-3a.789.789,0,0,0-.789.789v3a.316.316,0,1,0,.631,0v-3a.157.157,0,0,1,.158-.158h3a.316.316,0,0,0,0-.631Z" transform="translate(-219.001 -579.003)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Group_65605" data-name="Group 65605" transform="translate(2.525 3.472)">
+          <path id="Path_34542" data-name="Path 34542" d="M306.419,591.266h-.957a.158.158,0,0,1-.131-.07l-.561-.841a.789.789,0,0,0-.657-.351H302.1a.789.789,0,0,0-.657.351l-.561.841a.158.158,0,0,1-.131.07h-.957a.789.789,0,0,0-.789.789v3.472a.789.789,0,0,0,.789.789h6.629a.789.789,0,0,0,.789-.789v-3.472a.789.789,0,0,0-.789-.789Zm-3.314.631a1.578,1.578,0,1,0,1.578,1.578A1.579,1.579,0,0,0,303.1,591.9Zm0,.631a.947.947,0,1,1-.947.947A.947.947,0,0,1,303.1,592.528Z" transform="translate(-299.001 -590.003)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Projects_-_Arrow_" data-name="Projects - Arrow " transform="translate(-975 -146)">
+    <g id="Rectangle_2960" data-name="Rectangle 2960" transform="translate(975 146)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Arrow_Arrow_Up_Right_MD" data-name="Arrow / Arrow_Up_Right_MD" transform="translate(980 151)">
+      <path id="Vector" d="M7,17,17,7m0,0H9m8,0v8" transform="translate(-7 -7)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

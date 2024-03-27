@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Swiped_cards_1" data-name="Swiped cards 1" transform="translate(-1164 -124)">
+    <g id="Rectangle_2959" data-name="Rectangle 2959" transform="translate(1164 124)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="Group_61166" data-name="Group 61166" transform="translate(1167 125)" opacity="0.5">
+      <path id="Path_12258" data-name="Path 12258" d="M155.479,28h-7.614A1.867,1.867,0,0,0,146,29.865V41.8a1.867,1.867,0,0,0,1.865,1.865h8.951a1.867,1.867,0,0,0,1.865-1.865V31.2Zm2.456,13.8a1.12,1.12,0,0,1-1.119,1.119h-8.951a1.12,1.12,0,0,1-1.119-1.119V29.865a1.12,1.12,0,0,1,1.119-1.119h7.3l2.765,2.766Z" transform="translate(-145.5 -26.5)" fill="none" stroke="#3d3d3d" stroke-width="0.8"/>
+    </g>
+  </g>
+</svg>

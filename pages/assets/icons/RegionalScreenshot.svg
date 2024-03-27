@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.778" y1="0.096" x2="0.182" y2="0.894" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ad2df4"/>
+      <stop offset="1" stop-color="#cc26fb"/>
+    </linearGradient>
+  </defs>
+  <g id="Regional_screenshot" data-name="Regional screenshot" transform="translate(-3217 -7735)">
+    <circle id="Ellipse_130" data-name="Ellipse 130" cx="12" cy="12" r="12" transform="translate(3217 7735)" fill="url(#linear-gradient)"/>
+    <g id="Group_65609" data-name="Group 65609" transform="translate(-35.009 23.919)">
+      <g id="Rectangle_5825" data-name="Rectangle 5825" transform="translate(3260.009 7719.081)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1">
+        <rect width="8" height="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="7" height="7" fill="none"/>
+      </g>
+      <path id="Path_34543" data-name="Path 34543" d="M3685.5,7365.536v2.027h-2.237" transform="translate(-426.282 350.613)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_34544" data-name="Path 34544" d="M2.237,0V2.027H0" transform="translate(3257.186 7730.013) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_34545" data-name="Path 34545" d="M2.237,0V2.027H0" transform="translate(3271.042 7729.804) rotate(-180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_34546" data-name="Path 34546" d="M2.237,0V2.027H0" transform="translate(3271.042 7716.149) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Star" transform="translate(-835 -519)">
+    <g id="Rectangle_2964" data-name="Rectangle 2964" transform="translate(835 519)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <path id="Union_19" data-name="Union 19" d="M14.033,16.911,9,13.955,4.635,16.518h0l-.67.394a.468.468,0,0,1-.706-.386.478.478,0,0,1,.012-.113l1.287-5.65L.159,6.941A.451.451,0,0,1,0,6.594a.463.463,0,0,1,.424-.461L6.254,5.6,8.57.279a.469.469,0,0,1,.858,0l.842,1.934h0L11.744,5.6l5.83.534a.462.462,0,0,1,.265.808l-4.4,3.822,1.287,5.65a.465.465,0,0,1-.694.5Z" transform="translate(836.001 520.512)" fill="#989898"/>
+  </g>
+</svg>

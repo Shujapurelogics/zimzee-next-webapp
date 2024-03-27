@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Color_selection_-_Delete" data-name="Color selection - Delete" transform="translate(-482 -140)">
+    <rect id="Rectangle_4389" data-name="Rectangle 4389" width="20" height="20" transform="translate(482 140)" fill="none"/>
+    <g id="delete_1_" data-name="delete (1)" transform="translate(485.395 141.51)">
+      <path id="Path_60" data-name="Path 60" d="M126.49,1.025h2.838V1.5h1.025V.958A.959.959,0,0,0,129.4,0h-2.973a.959.959,0,0,0-.958.958V1.5h1.025Zm0,0" transform="translate(-121.303)" fill="red"/>
+      <path id="Path_61" data-name="Path 61" d="M50.563,167.75H40.941a.451.451,0,0,0-.45.488l.8,9.946a1.068,1.068,0,0,0,1.064.983h6.784a1.068,1.068,0,0,0,1.064-.983l.8-9.946A.451.451,0,0,0,50.563,167.75Zm-7.292,10.356h-.032a.512.512,0,0,1-.511-.481l-.5-8.165a.512.512,0,0,1,1.023-.063l.5,8.165A.512.512,0,0,1,43.271,178.106Zm3-.511a.512.512,0,0,1-1.025,0v-8.165a.512.512,0,0,1,1.025,0Zm3.01-8.135-.481,8.165a.512.512,0,0,1-.511.482h-.031a.512.512,0,0,1-.481-.542l.481-8.165a.512.512,0,0,1,1.023.06Zm0,0" transform="translate(-39.147 -162.187)" fill="red"/>
+      <path id="Path_62" data-name="Path 62" d="M13.188,77.665l-.337-1.009a.652.652,0,0,0-.618-.445H.977a.652.652,0,0,0-.618.445L.023,77.665a.423.423,0,0,0,.4.557H12.787a.417.417,0,0,0,.224-.065A.422.422,0,0,0,13.188,77.665Zm0,0" transform="translate(0 -73.683)" fill="red"/>
+    </g>
+  </g>
+</svg>

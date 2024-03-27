@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Dashboard_-_Files" data-name="Dashboard - Files" transform="translate(-680 -24)">
+    <g id="Ellipse_349" data-name="Ellipse 349" transform="translate(680 24)" fill="none" stroke="#e3ebf1" stroke-width="1" opacity="0.6">
+      <circle cx="18" cy="18" r="18" stroke="none"/>
+      <circle cx="18" cy="18" r="17.5" fill="none"/>
+    </g>
+    <g id="files-svgrepo-com" transform="translate(687 30)">
+      <path id="Path_34166" data-name="Path 34166" d="M15.5,2H8.6a1.606,1.606,0,0,0-1.1.5A1.606,1.606,0,0,0,7,3.6V16.4A1.721,1.721,0,0,0,8.6,18h9.8A1.721,1.721,0,0,0,20,16.4V6.5Z" fill="none" stroke="#3cc2e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_34167" data-name="Path 34167" d="M3,7.6V20.4a1.606,1.606,0,0,0,.5,1.1,1.606,1.606,0,0,0,1.1.5h9.8" fill="none" stroke="#3cc2e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_34168" data-name="Path 34168" d="M15,2V7h5" fill="none" stroke="#3cc2e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.043" height="41" viewBox="0 0 41.043 41">
+  <g id="pin_map_icon" transform="translate(0.522 0.501)">
+    <path id="Path_34420" data-name="Path 34420" d="M7.75,11.5a1.249,1.249,0,0,1,1-.5H15a1.254,1.254,0,0,1,0,2.507H9.375L3.75,21.029h32.5l-5.625-7.522H25A1.254,1.254,0,0,1,25,11h6.25a1.249,1.249,0,0,1,1,.5l7.5,10.029a1.254,1.254,0,0,1-1,2.006H1.25a1.254,1.254,0,0,1-1-2.006Z" transform="translate(0 16.463)" stroke="#000" stroke-width="1" fill-rule="evenodd"/>
+    <path id="Path_34421" data-name="Path 34421" d="M14.029,2.5A7.5,7.5,0,1,0,21.551,10,7.509,7.509,0,0,0,14.029,2.5ZM4,10a10.028,10.028,0,1,1,11.283,9.918V33.735a1.254,1.254,0,0,1-2.507,0V19.916A10.007,10.007,0,0,1,4,9.993Z" transform="translate(5.971 0)" stroke="#000" stroke-width="1" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Search" transform="translate(-435 -138)">
+    <g id="Rectangle_2954" data-name="Rectangle 2954" transform="translate(435 138)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="20" height="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+    </g>
+    <g id="search-interface-symbol" transform="translate(435.923 138.863)">
+      <g id="_x34__4_" transform="translate(0.006)">
+        <g id="Group_4452" data-name="Group 4452" transform="translate(0)">
+          <path id="Path_68" data-name="Path 68" d="M17.959,17.184l-3.292-3.34a8.175,8.175,0,0,0,2.185-5.555A8.357,8.357,0,0,0,8.429,0,8.356,8.356,0,0,0,.006,8.289a8.356,8.356,0,0,0,8.423,8.289,8.471,8.471,0,0,0,5.3-1.851l3.312,3.36a.655.655,0,0,0,.916,0A.631.631,0,0,0,17.959,17.184ZM8.429,15.3A7.071,7.071,0,0,1,1.3,8.289,7.071,7.071,0,0,1,8.429,1.275a7.071,7.071,0,0,1,7.127,7.014A7.071,7.071,0,0,1,8.429,15.3Z" transform="translate(-0.006)" fill="#9e9e9e"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

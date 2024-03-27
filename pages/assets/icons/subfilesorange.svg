@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="56" viewBox="0 0 66 56">
+  <g id="Files_floating_icon" data-name="Files floating icon" transform="translate(-2054 -449)">
+    <g id="Rectangle_5322" data-name="Rectangle 5322" transform="translate(2054 449)" fill="none" stroke="#f60" stroke-width="1">
+      <path d="M28,0H66a0,0,0,0,1,0,0V56a0,0,0,0,1,0,0H28A28,28,0,0,1,0,28v0A28,28,0,0,1,28,0Z" stroke="none"/>
+      <path d="M28,.5H65.5a0,0,0,0,1,0,0v55a0,0,0,0,1,0,0H28A27.5,27.5,0,0,1,.5,28v0A27.5,27.5,0,0,1,28,.5Z" fill="none"/>
+    </g>
+    <rect id="Rectangle_5306" data-name="Rectangle 5306" width="24" height="24" transform="translate(2070 465)" fill="none"/>
+    <g id="Files_filled_icon" data-name="Files filled icon" transform="translate(11318.361 7385.712)">
+      <g id="files-svgrepo-com" transform="translate(-9239.361 -6918.712)">
+        <path id="Path_34166" data-name="Path 34166" d="M15.181,2H8.54a1.546,1.546,0,0,0-1.059.481A1.546,1.546,0,0,0,7,3.54V15.859A1.656,1.656,0,0,0,8.54,17.4h9.432a1.656,1.656,0,0,0,1.54-1.54V6.331Z" transform="translate(-3.15 -2)" fill="rgba(0,0,0,0)" stroke="#f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+        <path id="Path_34167" data-name="Path 34167" d="M3,7.6V19.919a1.546,1.546,0,0,0,.481,1.059,1.546,1.546,0,0,0,1.059.481h9.432" transform="translate(-3 -2.21)" fill="none" stroke="#f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+        <path id="Path_34168" data-name="Path 34168" d="M15,2V6.812h4.812" transform="translate(-3.451 -2)" fill="none" stroke="#f60" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+      </g>
+      <path id="Path_34316" data-name="Path 34316" d="M-.135.716H6.574l.3,4.9H11.5l.335,9.66H-.3Z" transform="translate(-9235 -6919)" fill="#f60"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Right_arrow" data-name="Right arrow" transform="translate(-326.5 -340.016)">
+    <g id="Rectangle_816" data-name="Rectangle 816" transform="translate(326.5 340.015)" fill="none" stroke="#707070" stroke-width="2" opacity="0">
+      <rect width="16" height="16" stroke="none"/>
+      <rect x="1" y="1" width="14" height="14" fill="none"/>
+    </g>
+    <path id="Path_12455" data-name="Path 12455" d="M0,0,4.916,4.916,9.832,0" transform="translate(332.05 352.923) rotate(-90)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

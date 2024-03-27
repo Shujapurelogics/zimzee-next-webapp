@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="237" height="165" viewBox="0 0 237 165">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 48 48">
+      <image width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEFElEQVRoge1ZW0hVQRTdZmmiFeZHTxLKr4KiIvqIyKCP3gW97AkJmlqZQiKakIg9qDSIIvqN7K0VSRBRatDjoyzyo34Mekd9BBlZVNpezD7c8Xiud+6955xr4YKF586ePTPrnJnZe0ai/xDjmSXM0hixRMYQMSqY3TFmRTQCKqWRWKFbxhAxKmlAQFTwRMAk5leK7bo4EY2ATCk7yzwYA75iNrkhINO0EZfRRDESkMZcEAXTwhEwiLmcecsmIIFZJmWnKHgAKmZOtLVZR9HN+zpNQLv0U8hMdxr8DZszEM+8HUaHHaTenAU3v4Dezxe7iJViyGNWaQJWyXM2M86u2gaE/6fMH9KeEzKiEGBNockypmK94T1SOJh6rgGrPD7E4C2kMu8zfzE3OdjfUeRTSF8DvWKFPuhgz6ZIZt5kdjF32WxufAHPBQBY+PXiuzcCfzt8FwBgOp4Rf/yNJsVup8AuVOqXAAC7237yJg3xRYBXGBAQa/giIIW5mXmZ+YL5TYjnS6TiREqEbXsqAAu3gPlRfF+TSsNrhXh+I7YPzHzxCQeeCcAbvSY+yKHmkHMKEie2O1L3CoX3NYwF4Hbgt2GjCF53SaURBQ52JF9O1yU7xKeZOcSwL2MB6HC1YaMnSaUP6xxsOWLDy1jrYM8S+3HDvowFmGIG8w/zcBD7S+Yz5kNma5A6NdLGNIP+jAXgbT0xaPAq8xNzuINtJgXS32x5znCoN4L5mdlg0J+rUwiLr5N5SH4PJXUQvyhsIzXHJ5DKLlG3VbMfEB8AXwHniWFuCTDBYqk/T37jDIH5jC/3iPmAuUWrv4Z5T2yPSU2bcrHNl7YWuiVgPam52xfypP5o+Y3k7SepIBYKS5jfmdXye6y0lRvCz9U4YB34E+T3SFLbKcpOMxMdfBC4ENS6pG6qlCeKX5mfAnKlzhitDGeBainf7eCTJTacv/Xj6jgpzwnRp6sCFlHPNWAh3akjwVaxpdvKXV8D+nMwWLvQEVt5kfjOIrW9VkkdfKlRpIJakc3nKKk1keynAAC5jD0ONJJK1maTOg52ClFvKamgdl2rb8WBeoP+XBcwndR2qH+FGgoc/xALpgjbtHK9fq20MTUWAgBcf+u5EHaUAmGSVi9JyvIpsENZudAxw748EYBttIVU1N1p6AMUik8TeZCN6s8mwIJuEJ9m5lwKfh6ArUXq4tQWauHq8PREhsFtI7WA4fuWeY4CJ7LzFLhifE9qzw9172qHL2divNGNpBK256Rurjvk+QJzA4X31nX0KcDp/8T9Db0EWPkMUgCk0Ag6SImbpdz0dtoPYIwYU7leaKXEiIz6YJdJ+XYK/+bAC2AMOENjTCt0AxaRdZv8L7CRHF4oRCAxs6ZPf+Q+Uv/H609TOjr8Bd1ki37pdiLIAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="AI_Image_1" data-name="AI Image 1" transform="translate(-1032 -229.473)">
+    <ellipse id="Ellipse_418" data-name="Ellipse 418" cx="76.5" cy="79" rx="76.5" ry="79" transform="translate(1097 229.473)" fill="#fff6f0"/>
+    <g id="Rectangle_6026" data-name="Rectangle 6026" transform="translate(1032 278.473)" fill="#fff" stroke="#d8dee5" stroke-width="1">
+      <rect width="158" height="28" rx="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="157" height="27" rx="13.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_6044" data-name="Rectangle 6044" width="116" height="21" rx="10.5" transform="translate(1093 236.473)" fill="#f60"/>
+    <g id="Rectangle_6027" data-name="Rectangle 6027" transform="translate(1079 320.473)" fill="#fff" stroke="#f60" stroke-width="1">
+      <rect width="190" height="29" rx="14.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="189" height="28" rx="14" fill="none"/>
+    </g>
+    <text id="Type_something" data-name="Type something" transform="translate(1046 294.473)" fill="#989898" font-size="8" font-family="Objectivity-Medium, Objectivity" font-weight="500"><tspan x="0" y="0">Type something</tspan></text>
+    <text id="Choose_the_templates" data-name="Choose the templates" transform="translate(1106 249.473)" fill="#fff" font-size="8" font-family="Objectivity-Medium, Objectivity" font-weight="500"><tspan x="0" y="0">Choose the templates</tspan></text>
+    <text id="Create_a_project_on_Fashion...." data-name="Create a project on Fashion...." transform="translate(1093 337.473)" font-size="8" font-family="Objectivity-Medium, Objectivity" font-weight="500"><tspan x="0" y="0">Create a project on Fashion....</tspan></text>
+    <g id="noun-send-1268238" transform="translate(1171.082 284.303) rotate(48)">
+      <path id="Path_34815" data-name="Path 34815" d="M0,4.913a.534.534,0,0,0,.268.5L3.757,7.4,8.532,3.344,4.476,8.119l1.983,3.487a.534.534,0,0,0,.458.27h.035a.534.534,0,0,0,.458-.331L11.836.735a.534.534,0,0,0-.7-.7L.332,4.454A.534.534,0,0,0,0,4.913Z" transform="translate(0 0)" fill="#989898"/>
+    </g>
+    <g id="noun-send-1268238-2" data-name="noun-send-1268238" transform="translate(1250.003 327.351) rotate(48)">
+      <path id="Path_34815-2" data-name="Path 34815" d="M0,4.913a.534.534,0,0,0,.268.5L3.757,7.4,8.532,3.344,4.476,8.119l1.983,3.487a.534.534,0,0,0,.458.27h.035a.534.534,0,0,0,.458-.331L11.836.735a.534.534,0,0,0-.7-.7L.332,4.454A.534.534,0,0,0,0,4.913Z" transform="translate(0 0)" fill="#f60"/>
+    </g>
+    <g id="Group_65865" data-name="Group 65865" transform="translate(1216.69 250.351)">
+      <ellipse id="Ellipse_414" data-name="Ellipse 414" cx="13.5" cy="14" rx="13.5" ry="14" transform="translate(0.311 0.121)" fill="rgba(216,216,216,0.51)"/>
+      <g id="noun-swipe-176722" transform="translate(7.62 6.083)">
+        <path id="Path_34813" data-name="Path 34813" d="M36.019,27.619l-2.047-3.232h0a1.543,1.543,0,0,0-2.71.185,1.536,1.536,0,0,0-2.105.729,1.53,1.53,0,0,0-1.982.512l-1.35-2.132a1.545,1.545,0,1,0-2.611,1.653l4.7,7.419a4.8,4.8,0,0,0,8.106-5.134ZM34.04,33.46a3.88,3.88,0,0,1-5.347-1.2l-4.7-7.419a.623.623,0,1,1,1.052-.667l3.573,5.642a.461.461,0,0,0,.39.214.456.456,0,0,0,.246-.072.461.461,0,0,0,.143-.636l-1.466-2.315v0a.623.623,0,0,1,1.052-.666l1.467,2.317a.461.461,0,1,0,.779-.494l-1.194-1.885h0a.623.623,0,1,1,1.052-.666h0l.27.427,0,0v0l.92,1.453A.461.461,0,1,0,33.061,27l-.922-1.456a.623.623,0,0,1,1.053-.666h0l2.047,3.232A3.879,3.879,0,0,1,34.04,33.46ZM26.7,21.757l1.545.8a.456.456,0,0,0,.212.052.461.461,0,0,0,.213-.87l-.568-.3a7.8,7.8,0,0,1,5.012.337.461.461,0,1,0,.353-.852,8.717,8.717,0,0,0-5.624-.373l.283-.544a.461.461,0,0,0-.818-.426l-.8,1.545a.46.46,0,0,0,.2.622Z" transform="translate(-22.975 -19.341)"/>
+      </g>
+    </g>
+    <g id="Group_65870" data-name="Group 65870" transform="translate(1057.622 347.5)">
+      <ellipse id="Ellipse_415" data-name="Ellipse 415" cx="12" cy="12.5" rx="12" ry="12.5" transform="translate(0.379 -0.027)" fill="rgba(216,216,216,0.51)"/>
+      <image id="_6646222_blackjack_cards_casino_game_poker_icon" data-name="6646222_blackjack_cards_casino_game_poker_icon" width="13" height="13" transform="translate(6.379 4.973)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAABORJREFUaEPtmluIVlUUx/0cb1FKmvRQUOmLXQZGK9KHynqIevH2YJRWpJKCUQheKuwyloGjQaAkmhFKSahRSYGSDw1eijIzlCkyiKmgogkqLaJJnf6/YW3bczyXffZ3mQQX/Nnn8u219n/f1trrfJWenp4B57JUzhPo5+E7awQqlUqySVfpwcPCXcIY4cIq2vyn6n4j7BZeEr6N1eVmThGBZTLwrDA01lBOvb/17ilhTYzuEAIvSPHiGOUl60CAjiolRQRmSNtbnsYPbSQOqPyjlKW+P75ItzcLzwiTvFdTdf1uGb15BFgEXwrjTOGbKu8VTpYxUPDbwXq/TaCjEOxdJwTv6XkEbpCiT03xrypZuL/XsPFO1UhddAoj7MF8lZtC7eQRWCAlG0zRayofsOsmVTrFtXaqgSpOhxrL+d0hvbve3tP7bwhLhR+KdOcReFKVnzMFK1WyUwxIOryU7bbIZtr7l/XwocSLE7pvFdYJ/2QpzSNAZRYZssKU1YuAb4sR8J3QMd0/IryfRqJqAiitwSj4BLZI5Y0Ci9mJm1Zs5z/5RGpCwCmsgkhytJ+XzkdtBgz3Gtyl69nCnjPMLAhN88RBUyg5rJEkUm1J92UCjpTt28lfurhDwBedmdLBBPxKycZzX2MCzsTtutgsXGEPvlbZLHSXnkJFBIzEEJUXCKF+I2sE/D6i8Wy3o+3hfSq31oWAkbjYDP2WNlKJZyEEqEKs1GZ1d6i8u24EjMQglTi9otAglMAE6frMCBxR2VJXAn4vF6yNUALXSOcXprdDZXPDCNiIZM2mUALMe8IaBMd2Z0MJ5JAIIUDc9YlAkIk8LrRFEaB2bBIgYyqFEJgns69Y4zmSEh13nSsE2NE4N7uQu13X+IY4R+YmcswoRI7AWtkkoHPCoWq80BE9ArHTKIIAQd3nAluyLzt1M70qAjEkIgh8IDu3Wcs/UjlRYEFzRrhUBHodZalYyO+GstOoJAEiz9fNXrfKFoFw+yZ7Nln29/5fCRBGc8i/3Bq7WuVjwttMHXs2QwTeaRiBHG/cqkYkT3/kiZZYQznEkB05LhwWWMDIrSKwryoCVA6dRiUIbJXao4LLBM7SNQd9Gk4sxJGTjN4lso1PiF8D1hNBJEoQYKGSg0X209MCPqDd630Izap6F0ojkGxoQCajVXrcFCJMnml6iWQJHdyZ+Fp7zqmMyPSrmhPI6uUUEn5OySfAtujOEjiw7wXSOm46kYd6UOgN6hpCIG2NiCjz2J0TfAJuUH/RBbvQLe6BSub7XGF7cuSj/YCnPPcyZQSKCNBY/xvEQd3fz7TxDdVsBIqIRBBwKlkHZCaeFnBmfSSPQGpqsaihWe9TCDCn2QoRvC1eNymdekBOtnevT5M8AmSJN1olP7kby+G/BVepkLUYJuCYEBp6ZULxq7pfJJAjzZQ8AmSLSWMg7AwcIEIyDGUJjlKFn4Umq0gqZo5AyFAoeQRYZBygrzYtfKm5R8jMFBdaO/sHfOBgR3GxDb1NyPBjqK48AuiYJvQGSyYfqyRTjXfMHdqCBhCosT3ivFxkSZUpwnuhjed3RQT4DVEgHxvqLatk4ImyRkIIoJO0Nt6QhVdrISxYLrwYoziUALrZJRYKBFljBb40xgpfOPnQvUtYL3wXqyiTQKzC/qp3/s8e/dXzzu6/WA5+vzy8vIEAAAAASUVORK5CYII="/>
+    </g>
+    <g id="Group_65864" data-name="Group 65864" transform="translate(1185.729 360.311)">
+      <circle id="Ellipse_416" data-name="Ellipse 416" cx="17" cy="17" r="17" transform="translate(0.27 0.162)" fill="#f60"/>
+      <rect id="Projects" width="18" height="19" transform="translate(7.27 8.162)" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>

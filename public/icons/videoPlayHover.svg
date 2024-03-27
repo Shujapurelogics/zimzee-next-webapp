@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <g id="Video_play_button_-_Hover" data-name="Video play button - Hover" transform="translate(-6431 -5414)">
+    <g id="Ellipse_406" data-name="Ellipse 406" transform="translate(6431 5414)" fill="#2d2828" stroke="#fff" stroke-width="1.5" opacity="0.85">
+      <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+      <circle cx="37.5" cy="37.5" r="36.75" fill="none"/>
+    </g>
+    <path id="Polygon_1" data-name="Polygon 1" d="M13.915,4.386a3,3,0,0,1,5.169,0l11.25,19.091A3,3,0,0,1,27.75,28H5.25a3,3,0,0,1-2.585-4.523Z" transform="translate(6487 5435) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

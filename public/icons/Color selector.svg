@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Color_selector" data-name="Color selector" transform="translate(15576 16479)">
+    <rect id="Rectangle_5317" data-name="Rectangle 5317" width="20" height="20" transform="translate(-15576 -16479)" fill="none"/>
+    <g id="color-picker-svgrepo-com" transform="translate(-15575.02 -16477.002)">
+      <g id="Group_65150" data-name="Group 65150" transform="translate(1)">
+        <path id="Path_34309" data-name="Path 34309" d="M15.308,4.434A2.515,2.515,0,0,0,15.079.9,2.516,2.516,0,0,0,11.545.67L10.364,1.853l3.764,3.764,1.18-1.183Z" fill="#f60" fill-rule="evenodd"/>
+        <path id="Path_34310" data-name="Path 34310" d="M5.468,14.276l6.147-6.148.772.772,1.584-1.586L8.662,2.005,7.077,3.589l.773.773L1.7,10.508.02,15.2l.754.754,4.694-1.679ZM8.916,5.428l1.635,1.636-6.262,6.26-2.594.96.959-2.6,6.262-6.26Z" fill="#f60" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

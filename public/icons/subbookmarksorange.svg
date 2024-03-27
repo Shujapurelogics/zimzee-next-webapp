@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="New_Bookmarks_floating_icon" data-name="New Bookmarks floating icon" transform="translate(9430 5931)">
+    <g id="Rectangle_5321" data-name="Rectangle 5321" transform="translate(-9430 -5931)" fill="none" stroke="#f60" stroke-width="1">
+      <path d="M12,0H44a0,0,0,0,1,0,0V44a0,0,0,0,1,0,0H12A12,12,0,0,1,0,32V12A12,12,0,0,1,12,0Z" stroke="none"/>
+      <path d="M12,.5H43.5a0,0,0,0,1,0,0v43a0,0,0,0,1,0,0H12A11.5,11.5,0,0,1,.5,32V12A11.5,11.5,0,0,1,12,.5Z" fill="none"/>
+    </g>
+    <g id="Bookmarks_filled_icon" data-name="Bookmarks filled icon" transform="translate(-11415 -6294)">
+      <rect id="Rectangle_5324" data-name="Rectangle 5324" width="22" height="22" transform="translate(1996 374)" fill="none"/>
+      <g id="bookmarks-fill-svgrepo-com" transform="translate(1998.776 374.926)">
+        <path id="Path_34314" data-name="Path 34314" d="M18.106,1H8.842A1.849,1.849,0,0,0,7,2.851h9.255A1.856,1.856,0,0,1,18.106,4.7V16.733l1.851.925V2.851A1.856,1.856,0,0,0,18.106,1Z" transform="translate(-3.298 -1)" fill="#f60"/>
+        <path id="Path_34315" data-name="Path 34315" d="M4.851,5h9.255a1.856,1.856,0,0,1,1.851,1.851V21.659L9.478,18.882,3,21.659V6.851A1.856,1.856,0,0,1,4.851,5Z" transform="translate(-3 -1.298)" fill="#f60"/>
+      </g>
+    </g>
+  </g>
+</svg>
